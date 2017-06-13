@@ -1,6 +1,8 @@
 # Introduction  - draft 
 
-Based on Workshop ["How to craft compelling stories out of video interviews?"](http://pietropassarelli.com/wip_london_july2016.html). This was in collaboration with Niels Ladefoged who has been curating the Whistle Blower Interview Project in collaboration with the centre for investigative journalism in London.
+Based on Workshop ["How to craft compelling stories out of video interviews?"](http://pietropassarelli.com/wip_london_july2016.html) . Which was in collaboration with [Niels Ladefoged](https://twitter.com/insofar_media) who has been curating the [Whistle Blower Interview Project](https://vimeo.com/whistleblowers) in collaboration with [the centre for investigative journalism in London](http://www.tcij.org/whistleblowers/whistleblower-interview-project).
+
+This was the description of the workshop.
 
 >Using some of the videos from the Whistle Blowers Interview Archive, we’ll take an hands on approach to explore key concepts, ideas and techniques to identify narrative points, test out story ideas, and craft a compelling story.
 >
@@ -14,10 +16,10 @@ The aim of the workshop is for the participants to gain an hands on insight into
 
 ![some imgs from the workshop](http://pietropassarelli.com/img/wip_london_workshop_july_2016/wip_london_workshop_2016_2.JPG)
 
+For the purpose of this book, we consider documentary production as main use case but this process can be used in the context of other interview based media, eg podcasts, radio, factual and news production. 
 
-For the popruse of this documentary prod as primary use case but can be used for interview based media, eg podcasts, radio, factual and news production 
+For learning purposes, to get across the story crafting paper-editing process, as well as key story   the book follows an hands on approach can follow along using WIP interview, your own on skip these parts. Analogue way Optimal setup to learn and familiaries with story concepts, espeically in group context.
 
-- for learning purposes the book follows an hands on approach can follow along using WIP interview, your own on skip these parts. Analogue way Optimal setup to learn and familiaries with story concepts, espeically in group context.
 - however for practical purposes in every day work we recommend using autoEdit2 as described in last section. 
 
 - in 3 parts
