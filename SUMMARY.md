@@ -6,10 +6,10 @@
 
 ## Paper-editing
 
-* [Documentary Production Overview](documentary-production-overview.md)
-* [Key concepts in documentary theory](key-concepts-in-documentary-theory.md)
-* [Why paper-editing?](why-paper-editing.md)
-* [Paper-editing overview](paper-editing-overview.md)
+* [Documentary Production Overview](paper-editing/documentary-production-overview.md)
+* [Key concepts in documentary theory](paper-editing/key-concepts-in-documentary-theory.md)
+* [Why paper-editing?](paper-editing/why-paper-editing.md)
+* [Paper-editing overview](paper-editing/paper-editing-overview.md)
 
 ## Story concepts
 
@@ -20,7 +20,7 @@
 * [The Quest](story-concepts/the-quest.md)
 * [Three act structure](story-concepts/three-act-structure.md)
 * [Exposition](story-concepts/exposition.md)
-* [ladder of abstraction in paper-editing](why-paper-editing/ladder-of-abstraction-in-paper-editing.md)
+* [ladder of abstraction in paper-editing](paper-editing/ladder-of-abstraction-in-paper-editing.md)
 * [Annotated bibliography](story-concepts/annotated-bibliography.md)
 
 ## Digital Paper-editing
