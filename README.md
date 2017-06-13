@@ -19,9 +19,11 @@ The aim of the workshop is for the participants to gain an hands on insight into
 
 In this book we refer to documentary production as out primary use case, but much of these lessons can be applied to any type of interview  based medium, such as radio, podcasts or news production.
 
+The book is divided into 3 main parts, first part is on paper-editing, explains what it is, and why should you bother. Second part revisits the paper-editing process and introduces story concepts to help crafting more compelling narratives along the way. 
+Last but not least in the third section we introduce autoEdit2 a digital-paper-editing software that can be used as an off the shelf solution. 
 
 
-We start with an overview of documentary production  and where paper-editing fits in.
+**In the first part** we start with an overview of documentary production explaining where paper-editing fits in the process.
 
 Key concepts in documentary theory and practice
 
@@ -31,7 +33,7 @@ Why paper-editing, looking at inside out(?) McKee writers method.
 Paper-editing overview. 
 
 
-In the second part we'll resist our paper-edit overview in relation with some story concepts that can help us along the way crafting a more compelling narrative.
+**In the second part** we'll resist our paper-edit overview in relation with some story concepts that can help us along the way crafting a more compelling narrative.
 
 Story concepts explored
 - story terminology 
@@ -41,11 +43,11 @@ Story concepts explored
 - 3 act structure 
 - concept of exposition 
 
-
-we conclude with annotated bibliography listing material that inspired this guide, as resources to dive deeper in some of these topics. 
-
+This section concludes with annotated bibliography listing material that inspired this guide, as resources to dive deeper in some of these topics. 
 
 
+**Third and last part** introduces a practical solution for paper-editing in the 21st century. 
+autoEdit2 a digital paper-editing software. 
 
 
 ## Feedback 
