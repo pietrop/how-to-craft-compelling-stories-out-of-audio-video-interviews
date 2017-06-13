@@ -16,6 +16,9 @@ In **Post-production** you assemble the paper-edit into a rough assembly video s
 
 When it's all done you can then move on to **Delivery and distribution** which will vary depending on the context of your project. 
 
+
+This is the ideal scenario, sometime these stages might overlap because of time and budget constraints. 
+
 ----   
 
 - Initial **idea**
@@ -35,4 +38,4 @@ When it's all done you can then move on to **Delivery and distribution** which w
 
 --- 
 
-I am would argue that in interview based productions paper-editing is where the magic happens. 
+I would argue that in interview based productions paper-editing is where the magic happens. Some  practitioners who skip this step might argue it's in the editing, or the interview etc.. I'd leave it for you to decide and tell me what you think after you have tried it for yourself by the end of the book.
