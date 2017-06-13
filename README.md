@@ -1,6 +1,8 @@
 # Introduction  - draft 
 
-Based on Workshop ["How to craft compelling stories out of video interviews?"](http://pietropassarelli.com/wip_london_july2016.html) . Which was in collaboration with [Niels Ladefoged](https://twitter.com/insofar_media) who has been curating the [Whistle Blower Interview Project](https://vimeo.com/whistleblowers) in collaboration with [the centre for investigative journalism in London](http://www.tcij.org/whistleblowers/whistleblower-interview-project).
+This book is based on the Workshop ["How to craft compelling stories out of video interviews?"](http://pietropassarelli.com/wip_london_july2016.html). Which was in collaboration with [Niels Ladefoged](https://twitter.com/insofar_media) who has been curating the [Whistle Blower Interview Project](https://vimeo.com/whistleblowers) in collaboration with [the centre for investigative journalism in London](http://www.tcij.org/whistleblowers/whistleblower-interview-project).
+
+This workshop has had a number of editions in 2016 in London, New York, at Buenos Aires Hacks/Hackers Media Party, SRCCON in Portland, and MozzFest in London.
 
 This was the description of the workshop.
 
@@ -16,14 +18,38 @@ The aim of the workshop is for the participants to gain an hands on insight into
 
 ![some imgs from the workshop](http://pietropassarelli.com/img/wip_london_workshop_july_2016/wip_london_workshop_2016_2.JPG)
 
-For the purpose of this book, we consider documentary production as main use case but this process can be used in the context of other interview based media, eg podcasts, radio, factual and news production. 
+<small><i>Picture from London workshop, July 2016 at Newspeak House.</i></small>
 
-For learning purposes, to get across the story crafting paper-editing process, as well as key story   the book follows an hands on approach can follow along using WIP interview, your own on skip these parts. Analogue way Optimal setup to learn and familiaries with story concepts, espeically in group context.
+For the purpose of this book, we consider documentary production as the main use case but this process can be used in the context of other interview based media, eg podcasts, radio, factual and news production. 
 
-- however for practical purposes in every day work we recommend using autoEdit2 as described in last section. 
+The book echoes the workshop and follows an hands on approach. You can follow along using transcriptions from the Whistleblower Interview Project, or you can work with your own material if you are currently working on an interview based production. You can also chose to skip the hands on parts. But as they say _practice makes perfect_. 
 
-- in 3 parts
-- part 1 overview
-- part 2 overview
-- part 3 overview
+For optimal learning outcome, the paper-editing process is introduced in its analogue , paper, scissors and tape form. This is the optimal approach to maximise the learning experience and familiarise with key story concepts, especially if you are working on this in a small group.
 
+However for day to day work, we recommend using [autoEdit2](http://autoEdit.io) the digital paper-editing software mentioned in the last section of the book. 
+
+The book is divided into three main parts. 
+
+**In part one** we introduce the paper-editing process. We start with an overview of the documentary production to position where paper-editing fits in this context. 
+
+We then touch upon some key ideas in documentary theory and practice to explore some perspectives a round the question of objectivity/subjectivity of the documentary film-maker. 
+
+In the next section screen writing technique of writing from the inside out is presented as a key reason of why you should bother with Paper-editing. 
+
+In the last we present an section an overview of paper-editing process.
+
+**In the second part** we revisit the paper-editing process introducing key story concepts  that help crafting compelling narratives. 
+
+Story concepts considered are
+- Story terminology
+- levels of conflict
+- The Gap between expectations and reality 
+- The Quest or Narrative Arc
+- The Three act structure
+- Exposition 
+- ladder of abstraction in paper editing
+
+The section concludes with an annotated bibliography of material that contribute to this guide, for a diver deep into the topic. 
+
+
+**In the third** and last part, we introduce [autoEdit.io](http://autoEdit.io) a digital paper-editing software can be used for day to day production of video interviews. 
