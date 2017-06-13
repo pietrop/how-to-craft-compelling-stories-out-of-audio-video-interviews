@@ -5,7 +5,7 @@
 
 ## But Why?
 
-{{ SRCCON article re-writing from inside in/inside out McKee style  }}
+ SRCCON article re-writing from inside in/inside out McKee style 
 
 
 <!-- slide 21 -->
