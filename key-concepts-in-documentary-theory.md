@@ -2,5 +2,5 @@
 
 
 
-{{ See article, minimum I think you show know about documentary production }}
+See article, minimum I think you show know about documentary production 
 
