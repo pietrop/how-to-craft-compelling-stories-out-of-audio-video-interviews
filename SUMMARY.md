@@ -17,7 +17,7 @@
 * [Terminology](story-concepts/terminology.md)
 * [levels of conflict](story-concepts/levels-of-conflict.md)
 * [The Gap](story-concepts/the-gap.md)
-* [The quest](story-concepts/the-quest.md)
+* [The Quest](story-concepts/the-quest.md)
 * [Three act structure](story-concepts/three-act-structure.md)
 * [Exposition](story-concepts/exposition.md)
 * [ladder of abstraction in paper-editing](why-paper-editing/ladder-of-abstraction-in-paper-editing.md)

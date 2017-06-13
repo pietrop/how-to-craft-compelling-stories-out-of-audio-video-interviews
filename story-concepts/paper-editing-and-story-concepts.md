@@ -1,6 +1,8 @@
-# Paper-editing and story concepts
+# Paper-editing  and story concepts
 
-Now Let's resist our paper-edit overview in relation with some story concepts that can help us along the way crafting a more compelling narrative.
+Now Let's resist our paper-edit overview in relation with some story concepts that can help us along the way crafting a more compelling narrative. 
+
+If you like an hands on approach you can follow along using provided transcriptions from the Whistle Blower Interview Archive, or your own material. Alternatively you can just read it and skip the hands on parts. 
 
 
 ## Read it through
