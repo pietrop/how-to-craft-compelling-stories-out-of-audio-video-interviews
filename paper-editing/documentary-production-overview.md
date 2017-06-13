@@ -10,7 +10,7 @@
 - **post-production prep**
  - organise log and organise footage
  - transcribe interviews
-- **Paper-edit** <-- 
+- **Paper-edit** <--  
 - **Post-production**
  - video editing
 - **Delivery and distribution**
