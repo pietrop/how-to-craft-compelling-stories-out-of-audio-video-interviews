@@ -40,14 +40,21 @@ In the last we present an section an overview of paper-editing process.
 
 **In the second part** we revisit the paper-editing process introducing key story concepts  that help crafting compelling narratives. 
 
-Story concepts considered are
-- Story terminology
-- levels of conflict
-- The Gap between expectations and reality 
-- The Quest or Narrative Arc
-- The Three act structure
-- Exposition 
-- ladder of abstraction in paper editing
+Story concepts considered are:
+
+Story terminology such as exposition, train, theme, story Arc, and distinction between plot and character driven stories. 
+
+What makes a compelling character and how to explore the different levels of conflict. 
+
+How to identify and exploit the gap between expectations and reality to drive the narrative.
+ 
+The Quest or Narrative Arc.
+
+The Three act structure
+
+We exposition in a bit more details. 
+
+And conclude with the explaining how the ladder of abstraction applies to paper editing. 
 
 The section concludes with an annotated bibliography of material that contribute to this guide, for a diver deep into the topic. 
 
