@@ -13,9 +13,9 @@ The aim of the workshop is for the participants to gain an hands on insight into
 
 
 ![some imgs from the workshop](http://pietropassarelli.com/img/wip_london_workshop_july_2016/wip_london_workshop_2016_2.JPG)
-  
-- description of workshop
-- documentary prod as primary use case but can be used for interview based media, eg podcasts, radio, factual and news production 
+
+
+For the popruse of this documentary prod as primary use case but can be used for interview based media, eg podcasts, radio, factual and news production 
 
 - for learning purposes the book follows an hands on approach can follow along using WIP interview, your own on skip these parts. Analogue way Optimal setup to learn and familiaries with story concepts, espeically in group context.
 - however for practical purposes in every day work we recommend using autoEdit2 as described in last section. 
