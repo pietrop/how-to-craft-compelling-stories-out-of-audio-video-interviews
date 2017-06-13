@@ -12,7 +12,6 @@ Based on Workshop ["How to craft compelling stories out of video interviews?"](h
 The aim of the workshop is for the participants to gain an hands on insight into the process of interviewed based documentary story crafting rather then producing a polished final product.
 
 
-
 ![some imgs from the workshop](http://pietropassarelli.com/img/wip_london_workshop_july_2016/wip_london_workshop_2016_2.JPG)
   
 - description of workshop
