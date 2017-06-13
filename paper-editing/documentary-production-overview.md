@@ -6,7 +6,7 @@ Generally you would start with an **idea**, then you'd do some **research**, whi
 
 This is followed by **pre-production **where you organise logistics for the filming scout and book locations, equipment, crew, contributors etc..
 
-In **Production** you do the actual filming.
+In **Production** you do the actual filming, interviewing contributors.
 
 In **post-production prep** you organise all the footage that you have filmed. Depending on size and budget of the production you'd also get transcriptions and logs done.
 
@@ -28,6 +28,7 @@ This is the ideal scenario, sometime these stages might overlap because of time 
  - organise filming, locations, book   contributors, equipment, crew etc..
 - **Production**
  - actual filming
+ - interviewing contributors 
 - **post-production prep**
  - organise log and organise footage
  - transcribe interviews
@@ -38,4 +39,4 @@ This is the ideal scenario, sometime these stages might overlap because of time 
 
 --- 
 
-I would argue that in interview based productions paper-editing is where the magic happens. Some  practitioners who skip this step might argue it's in the editing, or the interview etc.. I'd leave it for you to decide and tell me what you think after you have tried it for yourself by the end of the book.
+I would argue that in interview based productions paper-editing is where the magic happens. Some  practitioners who skip this step might argue it's in the editing, or the interviewing etc.. I'd leave it for you to decide and tell me what you think after you have tried it for yourself by the end of the book.
