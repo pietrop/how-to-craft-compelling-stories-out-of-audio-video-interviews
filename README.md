@@ -50,9 +50,9 @@ How to identify and exploit the gap between expectations and reality to drive th
  
 The Quest or Narrative Arc.
 
-The Three act structure
+The Three act structure.
 
-We exposition in a bit more details. 
+We revisit exposition in a bit more details. 
 
 And conclude with the explaining how the ladder of abstraction applies to paper editing. 
 
