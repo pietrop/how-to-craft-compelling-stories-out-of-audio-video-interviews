@@ -1,4 +1,4 @@
-# Story Concepts: Terminolog
+# Story Concepts: Terminology
 
 <!-- TODO: find slides from LCC story press, and see images/diagrams associated with this -->
 

@@ -37,7 +37,7 @@ Let me also re-iterate that on the other hand for day to day editing of video in
 
 
 ### 2. Read
-Read it through a first time
+Read it through a first time. Sometimes people do point 2 and 3 at the same time. But take your time and do it in two steps if you need to.
 
 ### 3. hilight what stands out
 Read a second time, with a hilighter and mark things that stands out at a gut feeling level.
@@ -78,12 +78,14 @@ Make an outline of these high level themes, selecting the most significant.
 ![](/assets/make step outline.png)
 
 ####  Story Concepts:
-- [The Quest](/story-concepts/the-quest.md)
-- [Three Act Structure](/story-concepts/three-act-structure.md)
+Let's now focus on the basics of story structure.  Almost every story can be reduced down to [The Quest](/story-concepts/the-quest.md). Let's consider in more details what are the components of such story arc, and what that means for our story crafting.
+
+A canonical example that is good to know about is the so called [Three Act Structure](/story-concepts/three-act-structure.md), let's examine in details what are the parts that make the whole. 
+Beware that you might not need to have all 3 acts all the time, for short piece one Act is generally enough. And sometime a different structure might be more appropriate. But as they say "learn the rules so you can break them".
 
 ### 7. Fill in the dialogue
 Fill in the dialogue, find the text in the transcription for each theme in the outline, and add it to the outline.
-Will come back to this point an thing about story concept that can be used to strengthen the narrative. Such as expositon.
+
 
 ![](/assets/fill in the dialogue 1 .png)
 
@@ -104,7 +106,9 @@ add text selection to outline
 
 #### Story Concepts:
 
-This is a good time to revisit [exposition](/story-concepts/exposition.md) and the notion of 
+
+
+This is a good time to revisit [exposition](/story-concepts/exposition.md) as a tool that can be used to strengthen the narrative. Key to exposition is the notion of 
 
 >"letting the audience know **what** they need to know **when** they need to know it"
 
@@ -114,13 +118,14 @@ Using the timecodes and file reference in the paper-edit reconnect the video seq
 
 ![Workshop img](http://pietropassarelli.com/img/wip_london_workshop_july_2016/wip_london_workshop_paperediting.JPG)
 
-
-
 <!-- ![diagram](/assets/video sequence.png) -->
 
 ![workshop img](http://pietropassarelli.com/img/wip_london_workshop_july_2016/wip_london_workshop_2016_preview.JPG)
 
 #### Story Concepts:
+This takes you to a rough cut stage [in the documentary production process](/paper-editing/documentary-production-overview.md). However your interviewed based story structure is pretty much in place.
+
+The key to the paper-editing process, is that at this stage you can iterate. You can read it through, see if flows and make changes unti 
 
 Now that you have a good overview of the process, it's time to consider how [the ladder of abstraction](/paper-editing/ladder-of-abstraction-in-paper-editing.md) applies to paper-editing.
 
