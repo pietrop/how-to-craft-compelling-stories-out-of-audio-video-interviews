@@ -56,7 +56,9 @@ add text selection to timeline
 ![Workshop img](http://pietropassarelli.com/img/wip_london_workshop_july_2016/wip_london_workshop_2016_hands_on_3.JPG)
 
 ![workshop img](http://pietropassarelli.com/img/wip_london_workshop_july_2016/wip_london_workshop_2016_hands_on_4.JPG)
+
 ![Workshop img](http://pietropassarelli.com/img/wip_london_workshop_july_2016/wip_london_workshop_paperediting.JPG)
+
 
 <!-- img from other workshops such as NYC one with the groups, find on iphone -->
 
