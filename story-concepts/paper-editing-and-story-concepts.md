@@ -123,9 +123,12 @@ Using the timecodes and file reference in the paper-edit reconnect the video seq
 ![workshop img](http://pietropassarelli.com/img/wip_london_workshop_july_2016/wip_london_workshop_2016_preview.JPG)
 
 #### Story Concepts:
-This takes you to a rough cut stage [in the documentary production process](/paper-editing/documentary-production-overview.md). However your interviewed based story structure is pretty much in place.
+This takes you to a rough cut stage [in the documentary production process](/paper-editing/documentary-production-overview.md). Once you enter post-production and leave you'll be adding b-rolls/cutaways and work towards a fine cut.
+But your interviewed based story structure is pretty much in place at this current stage.
 
-The key to the paper-editing process, is that at this stage you can iterate. You can read it through, see if flows and make changes unti 
+The key to the paper-editing process, is that at this stage you can iterate. You can read it through, see if flows and make changes until it does.  
+
+You can assemble the video sequence, watch it,  iterate back on the paper-edit, and repeat until the story feels compelling enough. 
 
 Now that you have a good overview of the process, it's time to consider how [the ladder of abstraction](/paper-editing/ladder-of-abstraction-in-paper-editing.md) applies to paper-editing.
 
