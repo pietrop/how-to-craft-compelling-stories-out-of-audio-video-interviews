@@ -18,6 +18,8 @@ Read it through a first time
 Read a second time, with a hilighter and mark things that stands out at a gut feeling level.
 
 ![](/assets/3 interviews transcriptions and hlighter.png)
+[
+**Story concepts**: Terminology](/story-concepts/terminology.md)
 
 ### 4. Identify Themes and ideas
 Look through a third time to identify themes and ideas that could be group together, from the parts you have identified.
