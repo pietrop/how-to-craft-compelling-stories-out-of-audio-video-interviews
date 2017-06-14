@@ -1,48 +1,58 @@
 # Paper-editing overview
 
-The paper-editing process aims to answer the question a round how would we tell a compelling story out of one or more video interviews?
+In a paper-editing workflow, at a high level, you would do the following. 
 
-![three interviews from wip ]()
+### 1. Timecoded Transcription
+You'd get a timecoded transcription of the video interviews
 
-## Read it through
-
-In previous section we discussed importance of transcriptions as part of this abstraction process. this is where they come in.
-
-![WIP + transcriptions ]()
-
-## Identify what stands out 
-
-![hilighter]()
+![](/assets/3 interviews with Transcriptions.png)
 
 
+### 2. Read
+Read it through a first time
 
-## Identify overarching key topics
+### 3. hilight what stands out
+Read a second time, with a hilighter and mark things that stands out at a gut feeling level. 
 
-![pen]()
+![](/assets/3 interviews transcriptions and hlighter.png)
+
+### 4. Identify Themes and ideas
+Look through a third time to identify themes and ideas that could be group together, from the parts you have identified. 
+
+![](/assets/3 interviews transcriptions and pen.png)
+
+### 4. list the themes
+Make a list of the themes you have identified in each interview.
+
+![](/assets/list key topics.png)
+
+### 5. explore relations
+Think about how the themes relate to each other
+
+![](/assets/group and explore relations.png)
+
+### 6. Make high level outline
+Make an outline of these highl level themes, selecting the most significant.
+
+![](/assets/make step outline.png)
+
+### 7.  Fill in the dialogue
+Fill in the dialogue, find the text in the transcription for each theme in the outline, and add it to the outline.
+Will come back to this point an thing about story concept that can be used to strengthen the narrative. Such as expositon.
+
+![](/assets/fill in the dialogue 1 .png)
+
+add text selection to timeline
+
+![](/assets/fill in the dialogue 2.png)
+
+### 8. Recconect video sequence
+8. Using the timecodes and file reference in the paper-edit reconnect the video sequence in the video editing software of choice. 
+
+![](/assets/video sequence.png)
 
 
 
-## List key topics
-
-![bullet point lsit]()
-
-## Make step outline 
-
-![bullet point lsit-> to outline]()
-
-
-
-## Fill in dialogue 
-
-![ add dialogue to outline]()
-
-
-<!-- for more on dialogue, mckee dialogue book -->
-
-
-## Assemble video sequence 
-
-![Video editing software]()
 
 
 
