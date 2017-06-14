@@ -5,42 +5,64 @@ Now Let's resist our paper-edit overview in relation with some story concepts th
 If you like an hands on approach you can follow along using provided transcriptions from the Whistle Blower Interview Archive, or your own material. Alternatively you can just read it and skip the hands on parts. 
 
 
-## Read it through
-
+### 1. Timecoded Transcription
 In previous section we discussed importance of transcriptions as part of this abstraction process. this is where they come in.
 
-![WIP + transcriptions ]()
-
-## Identify what stands out
-
-![hilighter]()
+![](/assets/3 interviews with Transcriptions.png)
 
 
+### 2. Read
+Read it through a first time
 
-## Identify overarching key topics
+### 3. hilight what stands out
+Read a second time, with a hilighter and mark things that stands out at a gut feeling level.
 
-![pen]()
+![](/assets/3 interviews transcriptions and hlighter.png)
 
+### 4. Identify Themes and ideas
+Look through a third time to identify themes and ideas that could be group together, from the parts you have identified.
 
+![](/assets/3 interviews transcriptions and pen.png)
 
-## List key topics
+### 4. list the themes
+Make a list of the themes you have identified in each interview.
 
-![bullet point lsit]()
+![](/assets/list key topics.png)
 
-## Make step outline
+### 5. explore relations
+Think about how the themes relate to each other
 
-![bullet point lsit-> to outline]()
+![](/assets/group and explore relations.png)
 
+### 6. Make high level outline
+Make an outline of these highl level themes, selecting the most significant.
 
+![](/assets/make step outline.png)
 
-## Fill in dialogue
+### 7. Fill in the dialogue
+Fill in the dialogue, find the text in the transcription for each theme in the outline, and add it to the outline.
+Will come back to this point an thing about story concept that can be used to strengthen the narrative. Such as expositon.
 
-![ add dialogue to outline]()
+![](/assets/fill in the dialogue 1 .png)
 
+add text selection to timeline
 
-<!-- for more on dialogue, mckee dialogue book -->
+![](/assets/fill in the dialogue 2.png)
 
+![Workshop Img](http://pietropassarelli.com/img/wip_london_workshop_july_2016/wip_london_workshop_2016_hands_on_1.JPG)
 
-## Assemble video sequence
+![Workshop img](http://pietropassarelli.com/img/wip_london_workshop_july_2016/wip_london_workshop_2016_hands_on_2.JPG)
 
-![Video editing software]()
+![Workshop img](http://pietropassarelli.com/img/wip_london_workshop_july_2016/wip_london_workshop_2016_hands_on_3.JPG)
+
+![workshop img](http://pietropassarelli.com/img/wip_london_workshop_july_2016/wip_london_workshop_2016_hands_on_4.JPG)
+![Workshop img](http://pietropassarelli.com/img/wip_london_workshop_july_2016/wip_london_workshop_paperediting.JPG)
+
+<!-- img from other workshops such as NYC one with the groups, find on iphone -->
+
+### 8. Recconect video sequence
+8. Using the timecodes and file reference in the paper-edit reconnect the video sequence in the video editing software of choice. 
+
+![diagram](/assets/video sequence.png)
+
+![workshop img](http://pietropassarelli.com/img/wip_london_workshop_july_2016/wip_london_workshop_2016_preview.JPG)
