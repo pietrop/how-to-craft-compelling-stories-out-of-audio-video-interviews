@@ -2,11 +2,12 @@
 
 ## What is a paper-edit?
 
-Imagine you have one or mroe interviews and you want to craft a story out of it. More specificly in the form of a video sequence, if you are making a documentary. 
+Imagine you have one or more interviews and you want to craft a story out of it. More specificly in the form of a video sequence, if you are making a documentary. 
 
 
 <!-- TODO: use transparent background ahlpa, make it with gogole drive drawing. -->
-![3 WIP images Thomas Drake, JR etc..]()
+
+![3 interviews](/assets/3 interviews.png)
 
 Stop for a second, and think what would you do next? What would you process be to get there?
 
