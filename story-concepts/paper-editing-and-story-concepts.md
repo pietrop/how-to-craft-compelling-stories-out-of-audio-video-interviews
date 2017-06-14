@@ -26,6 +26,11 @@ Look through a third time to identify themes and ideas that could be group toget
 
 ![](/assets/3 interviews transcriptions and pen.png)
 
+**Story concepts**: 
+- [3 levels of conflict](/story-concepts/levels-of-conflict.md)
+- [The Gap](/story-concepts/the-gap.md)
+
+
 ### 4. list the themes
 Make a list of the themes you have identified in each interview.
 
@@ -41,15 +46,25 @@ Make an outline of these highl level themes, selecting the most significant.
 
 ![](/assets/make step outline.png)
 
+**Story Concepts**:
+- [The Quest](/story-concepts/the-quest.md)
+- [Three Act Structure](/story-concepts/three-act-structure.md)
+
 ### 7. Fill in the dialogue
 Fill in the dialogue, find the text in the transcription for each theme in the outline, and add it to the outline.
 Will come back to this point an thing about story concept that can be used to strengthen the narrative. Such as expositon.
+
+
 
 ![](/assets/fill in the dialogue 1 .png)
 
 add text selection to timeline
 
 ![](/assets/fill in the dialogue 2.png)
+
+
+**Story Concepts**:
+- [Exposition](/story-concepts/exposition.md)
 
 ![Workshop Img](http://pietropassarelli.com/img/wip_london_workshop_july_2016/wip_london_workshop_2016_hands_on_1.JPG)
 
@@ -64,7 +79,7 @@ add text selection to timeline
 
 <!-- img from other workshops such as NYC one with the groups, find on iphone -->
 
-### 8. Recconect video sequence
+### 8. Reconnect video sequence
 8. Using the timecodes and file reference in the paper-edit reconnect the video sequence in the video editing software of choice. 
 
 ![diagram](/assets/video sequence.png)
