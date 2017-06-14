@@ -1,10 +1,11 @@
 # Representing Reality: Key ideas in documentary theory and practice  
 
+<!-- TODO: add bibliography at the end using UCL sytem. -->
 
 There are different styles and approaches on how to make a documentary. This section aims to address questions that are often reaised a round supposed objectivity or subjectivity of the medium and it's limitations for knowledge discovery and knowledge sharing, and proposes to provide some different perspective to examine the problem from. 
 
 
-What follows is the bare minimum (I think) you need to know about documentary films history and theory, if you work with audio/visual medium. For this post, I draw and expand on an essay I wrote during my MA in doc films a while back.
+What follows is the bare minimum (I think) you need to know about documentary films history and theory, if you work with audio/visual medium.  I draw and expand on an essay I wrote during my MA in doc films a while back.
 
 I might be over simplifying here, but I think there are three main concepts that are worth knowing about when it comes to documentary films history and theory, especially if you are working in documentary or factual production, or even in some other form of story telling for that matter.
 
