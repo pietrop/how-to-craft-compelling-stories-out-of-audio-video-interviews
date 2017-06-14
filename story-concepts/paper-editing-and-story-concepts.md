@@ -18,7 +18,7 @@ Some argue that while transcribing you familiarise yourself with the material. T
 ##### Interviews from Whistleblower Interview Project
 If you want to use interviews from the Whistle Blower Interview project.
 
-![3 interviews](/pdfs/3 interviews.png) 
+![3 interviews](/assets/3 interviews.png) 
  
 You can print these pdf for a hands on approach
 
