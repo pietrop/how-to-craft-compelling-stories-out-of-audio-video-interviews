@@ -42,17 +42,23 @@ Read it through a first time
 Read a second time, with a hilighter and mark things that stands out at a gut feeling level.
 
 ![](/assets/3 interviews transcriptions and hlighter.png)
-[
-**Story concepts**: Terminology](/story-concepts/terminology.md)
+
+
+#### Story concepts:
+Let's consider some basic [terminology](/story-concepts/terminology.md) to get some vocabulary to start thinking about the key element of story crafting.
 
 ### 4. Identify Themes and ideas
 Look through a third time to identify themes and ideas that could be group together, from the parts you have identified.
 
 ![](/assets/3 interviews transcriptions and pen.png)
 
-**Story concepts**: 
-- [3 levels of conflict](/story-concepts/levels-of-conflict.md)
-- [The Gap](/story-concepts/the-gap.md)
+#### Story concepts: 
+
+This is a good time to start thinking about what makes a good compelling character. What do you think that is the key element?
+
+As you might have guessed it's conflict. Let's look into more details at the [3 levels of conflict](/story-concepts/levels-of-conflict.md) as a tool to analyse our contributors.
+
+We then consider the [the Gap](/story-concepts/the-gap.md) between expectation and reality as key driving force to propel the narrative forward.
 
 
 ### 4. list the themes
@@ -70,28 +76,21 @@ Make an outline of these high level themes, selecting the most significant.
 
 ![](/assets/make step outline.png)
 
-**Story Concepts**:
+####  Story Concepts:
 - [The Quest](/story-concepts/the-quest.md)
 - [Three Act Structure](/story-concepts/three-act-structure.md)
-
-
 
 ### 7. Fill in the dialogue
 Fill in the dialogue, find the text in the transcription for each theme in the outline, and add it to the outline.
 Will come back to this point an thing about story concept that can be used to strengthen the narrative. Such as expositon.
 
-
-
 ![](/assets/fill in the dialogue 1 .png)
 
-add text selection to timeline
+![Workshop Img](http://pietropassarelli.com/img/wip_london_workshop_july_2016/wip_london_workshop_2016_hands_on_1.JPG)
+
+add text selection to outline
 
 ![](/assets/fill in the dialogue 2.png)
-
-
-**Story Concepts**:
-- [Exposition](/story-concepts/exposition.md)
-
 
 
 ![Workshop img](http://pietropassarelli.com/img/wip_london_workshop_july_2016/wip_london_workshop_2016_hands_on_2.JPG)
@@ -101,6 +100,13 @@ add text selection to timeline
 <!-- mention McKeen book on dialogue -->
 
 <!-- img from other workshops such as NYC one with the groups, find on iphone -->
+
+#### Story Concepts:
+
+This is a good time to revisit [exposition](/story-concepts/exposition.md) and the notion of 
+
+>"letting the audience know **what** they need to know **when** they need to know it"
+
 
 ### 8. Reconnect video sequence
 Using the timecodes and file reference in the paper-edit reconnect the video sequence in the video editing software of choice. 
@@ -112,3 +118,14 @@ Using the timecodes and file reference in the paper-edit reconnect the video seq
 <!-- ![diagram](/assets/video sequence.png) -->
 
 ![workshop img](http://pietropassarelli.com/img/wip_london_workshop_july_2016/wip_london_workshop_2016_preview.JPG)
+
+#### Story Concepts:
+
+Now that you have a good overview of the process, it's time to consider how [the ladder of abstraction](/paper-editing/ladder-of-abstraction-in-paper-editing.md) applies to paper-editing.
+
+## Digital Paper-editing 
+
+That's it for the analogue part, next parts of this "story concepts section" cover the story concepts that we have introduced through the process. 
+
+You can now go to the [Digital paper-editing section](/digital-paper-editing/autoedit-2-digital-paper-editing-software.md)
+to learn about how to use [autoEdit](http://autoEdit.io) for your day to day editing of video interviews.

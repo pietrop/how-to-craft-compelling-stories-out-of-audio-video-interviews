@@ -47,7 +47,7 @@ add text selection to timeline
 ![](/assets/fill in the dialogue 2.png)
 
 ### 8. Recconect video sequence
-8. Using the timecodes and file reference in the paper-edit reconnect the video sequence in the video editing software of choice. 
+Using the timecodes and file reference in the paper-edit reconnect the video sequence in the video editing software of choice. 
 
 ![](/assets/video sequence.png)
 
