@@ -11,6 +11,19 @@
 
 ## [Rabinger, developing story ideas,]()
 
-## [Artistotele's Poetics for screenwriters,]()
+## [Michael Tierno , Artistotele's Poetics for screenwriters,]()
 
-## [Documentary storytelling]() 
+## [Sheila Curran Bernard, Documentary storytelling]() 
+
+
+
+
+## [This American life How to Make Radio Comic Book]() 
+
+## [NFBC Capturing Reality: The Art of Documentary]()
+
+- Interactive
+-Film
+
+## [NFBC Cinéma Vérité:Defining the Moment]()
+

@@ -1,12 +1,21 @@
-# Story Concepts: Levels of conflict 
+# Story Concepts: The Gap
 
-![3 Levels of conflict picture]()
+## One Gap
+![The gap]()
 
->“A character's world can be imagined as a series of concentric circles surrounding a core of raw identity or awareness, circles that mark the levels of conflict in a character's life. The inner circle or level is his own self and conflicts arising from the elements of his nature: mind, body, emotion. “
-Mckee p146
-
+>“STORY is born in that place where the subjective and objective realms touch.” - p147 Mckee
 
 //explanation
 
 
+
+## Subsequent Gaps
+
+![the gap continued]()
+
+>“The protagonist's first action has aroused forces of antagonism that block his desire and spring open a gap between anticipation and result, disconfirming his notions of reality, putting him in greater conflict with his world, at even greater risk. But the resilient human mind quickly remakes reality into a larger pattern that incorporates this disconfirmation, this unexpected reaction. Now he takes a second, more difficult and risk-taking action, an action consistent with his revised vision of reality, an action based on his new expectations of the world.[..]” - Mckee p151
+
+
+
+//explanation
 
