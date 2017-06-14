@@ -76,6 +76,7 @@ add text selection to timeline
 
 ![Workshop img](http://pietropassarelli.com/img/wip_london_workshop_july_2016/wip_london_workshop_paperediting.JPG)
 
+<!-- mention McKeen book on dialogue -->
 
 <!-- img from other workshops such as NYC one with the groups, find on iphone -->
 
