@@ -213,9 +213,12 @@ However is an important pivotal moment in the story, and Herzog, cleaverly finds
 
 I'd close this section with a good [interview with Verner Herzog about one of his latest films "Into the Abyss"](https://vimeo.com/40147443), coincidentally about death row as well. 
 
-<!-- Fourth & Main: Werner Herzog on filmmaking  -->
-<iframe src="https://player.vimeo.com/video/40147443" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/40147443">Fourth &amp; Main: Werner Herzog on filmmaking</a> from <a href="https://vimeo.com/esperanzajimenez">Esperanza Jim&eacute;nez</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<!-- Fourth & Main: Werner Herzog on filmmaking  -vimeo -->
+<!-- <iframe src="https://player.vimeo.com/video/40147443" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/40147443">Fourth &amp; Main: Werner Herzog on filmmaking</a> from <a href="https://vimeo.com/esperanzajimenez">Esperanza Jim&eacute;nez</a> on <a href="https://vimeo.com">Vimeo</a>.</p> -->
+
+<!-- Fourth & Main: Werner Herzog on filmmaking  -youtube -->
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/QxxEHlQdp78" frameborder="0" allowfullscreen></iframe>
 
 
 
@@ -278,9 +281,11 @@ None the less, it's all about story, not as hard and fast rules, but as principl
 
 And the reason why I say this is that this last point overshadows to a certain extent the previous schools of thoughts, in the sense that once you've figured out what the possible story is, then you can work out the best way to tell it.
 
-Sure it's a given that story telling and story crafting might come easier to some, but none the less it's a craft that can be learned.
+Sure it's a given that story telling and story crafting might come easier to some, but none the less it's a craft, and as such it can be learned.
 
-And whit this thought in mind I'll leave you with a clip from [Adaptation](http://en.wikipedia.org/wiki/Adaptation_(film))  where [Robert Mckee](http://en.wikipedia.org/wiki/Robert_McKee) answers to the question: _"what if the writer is attempting to create a story where nothing much happens?[…] more of a reflection of the real world?"_
+And whit this thought in mind I'll leave you with a clip from [Adaptation](http://en.wikipedia.org/wiki/Adaptation_(film))  where [Robert Mckee](http://en.wikipedia.org/wiki/Robert_McKee) answers to the question:
+
+>"what if the writer is attempting to create a story where nothing much happens?[…] more of a reflection of the real world?" 
 
 <!-- Mckee in adaptation -->
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/o2fz_elzjF4" frameborder="0" allowfullscreen></iframe>
