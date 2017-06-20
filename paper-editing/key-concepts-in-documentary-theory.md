@@ -177,7 +177,15 @@ In today's documentaries most productions will use a mixture of direct cinema an
 
 I think it then becomes very useful to understand [Werner Herzog](http://en.wikipedia.org/wiki/Werner_Herzog) idea of _aesthetic truth_ and how for him boundaries between documentaries and fiction are therefore very blurred. 
 
-Herzog’s concept of aesthetic truth. Which is something behiond the actuality and the factual description of the event, it is its manipulation to represent a higher truth of the moment to shade light on elements that would other wise be missed ([Herzog Cronin  2002, p.238](http://books.google.co.uk/books?id=ydN_2oj8M0wC&dq=Herzog+%26+Cronin&hl=en&sa=X&ei=x1haU73sK-ic0QXB7YHYDA&redir_esc=y))
+
+But Before we do so let's consider this interview I made for the BBC academy college of production with John Douglas one of the directors of one of the episode of the Life and Death Row Series I mentioned before..
+
+<!-- John douglas bbc interview -->
+<iframe src="https://player.vimeo.com/video/128057278" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+The key take away here is the emphasis on the relationship with the contributors and representing your understanding of their truth without making it about you. 
+
+Back to Herzog, his concept of aesthetic truth. Which is something behiond the actuality and the factual description of the event, it is its manipulation to represent a higher truth of the moment to shade light on elements that would other wise be missed ([Herzog Cronin  2002, p.238](http://books.google.co.uk/books?id=ydN_2oj8M0wC&dq=Herzog+%26+Cronin&hl=en&sa=X&ei=x1haU73sK-ic0QXB7YHYDA&redir_esc=y))
 
 
 in his words: 
@@ -220,6 +228,7 @@ On the flip side, this also means that sometimes you'd avoid including material 
 >It [the audio recording] was so terrifying and horrifying that it was immediatly clear it was not going ot be in the moview [...] and ofcourse there is a responsability that as a film-maker you have. because you'd violate the right and the dignity and death o these two individuals, you just don't do it.
 
 <!-- Werner Herzog on Grizly man not using the clip where you can hear the death -->
+
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/n0bCcijSqbA" frameborder="0" allowfullscreen></iframe>
 
 
