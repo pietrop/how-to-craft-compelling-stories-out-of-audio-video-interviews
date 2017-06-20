@@ -36,11 +36,13 @@ Before we dive into it, it's worth considering that it's [in infancies, document
 ![Magic lantern representation](https://i.ytimg.com/vi/wi1RH9ReQlo/maxresdefault.jpg)
 
 Magic lanterns where used as projectors to entrataine audiences. 
+
 <!-- 
 ![Magic Lantern device](http://www.projectionscreen.net/wp-content/uploads/2010/04/magic-lantern.png)
 
 
-![Magic lantern image example](http://i.ebayimg.com/images/g/dMEAAOxy0QBSSc6o/s-l300.jpg) -->
+![Magic lantern image example](http://i.ebayimg.com/images/g/dMEAAOxy0QBSSc6o/s-l300.jpg) 
+-->
 
 See how in this BBC documentary it is compared to a precoursour of early days cinema.
 
@@ -178,7 +180,7 @@ In today's documentaries most productions will use a mixture of direct cinema an
 I think it then becomes very useful to understand [Werner Herzog](http://en.wikipedia.org/wiki/Werner_Herzog) idea of _aesthetic truth_ and how for him boundaries between documentaries and fiction are therefore very blurred. 
 
 
-But Before we do so let's consider this interview I made for the BBC academy college of production with John Douglas one of the directors of one of the episode of the Life and Death Row Series I mentioned before..
+But Before we do so let's consider this interview I made for the BBC academy college of production with John Douglas one of the directors of one of the episode of the Life and Death Row Series I already mentioned.
 
 <!-- John douglas bbc interview -->
 <iframe src="https://player.vimeo.com/video/128057278" width="100%" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
