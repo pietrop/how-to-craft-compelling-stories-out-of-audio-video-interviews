@@ -23,6 +23,10 @@
 * [ladder of abstraction in paper-editing](paper-editing/ladder-of-abstraction-in-paper-editing.md)
 * [Annotated bibliography](story-concepts/annotated-bibliography.md)
 
+## Two Column Script
+
+* [Two Column Script](two-column-script/two-column-script.md)
+
 ## Digital Paper-editing
 
 * [autoEdit 2 digital paper-editing software](digital-paper-editing/autoedit-2-digital-paper-editing-software.md)

@@ -1,4 +1,15 @@
-# Introduction  - draft 
+# Introduction 
+
+---
+
+_**Disclaimer**: this book is a work in progress.
+If you like it and want to contribute to it, you can use [gitbooks commenting features](https://www.gitbook.com/blog/features/discussions), [ change request](https://help.gitbook.com/books/what-are-change-requests.html) or just reach out at [pietro.passarelli@gmail.com](/pietro.passarelli@gmail.com)._
+
+_You can use inline comments and discussions for high level topics and considerations._
+
+_Use change requests for grammars and typos._
+
+---
 
 This book is based on the Workshop ["How to craft compelling stories out of video interviews?"](http://pietropassarelli.com/wip_london_july2016.html). Which was in collaboration with [Niels Ladefoged](https://twitter.com/insofar_media) who has been curating the [Whistle Blower Interview Project](https://vimeo.com/whistleblowers) in collaboration with [the centre for investigative journalism in London](http://www.tcij.org/whistleblowers/whistleblower-interview-project).
 
