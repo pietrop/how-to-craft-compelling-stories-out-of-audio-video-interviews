@@ -1,4 +1,4 @@
-# Two Column Script
+# Two Column Script - draft
 
 _This part is optional. Depending on the project you may want to skip it in this form and do it straight into the video editing software._ 
 
