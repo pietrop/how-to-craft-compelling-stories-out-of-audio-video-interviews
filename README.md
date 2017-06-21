@@ -71,3 +71,9 @@ The section concludes with an annotated bibliography of material that contribute
 
 
 **In the third** and last part, we introduce [autoEdit.io](http://autoEdit.io) a digital paper-editing software can be used for day to day production of video interviews. 
+
+
+
+## Acknowledgements 
+
+A big thank you to Open News for supporting the 2016 series of workshop that inspired this book.
