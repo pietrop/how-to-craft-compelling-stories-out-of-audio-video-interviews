@@ -33,7 +33,8 @@ But rather then dive straight into the key historic moments, it might be worth w
 Before we dive into it, it's worth considering that it's [in infancies, documentaries, started as slide-shows of travel expeditions](https://vimeo.com/10354481), lectures, travelogues, where the explore would narrate over his slide show in front of a live audience. Crafting it into a compelling story as much as possible.
 
 
-![Magic lantern representation](https://i.ytimg.com/vi/wi1RH9ReQlo/maxresdefault.jpg)
+![Magic Lantern movies](/assets/omlj-dvd-cover.jpg)
+
 
 Magic lanterns where used as projectors to entrataine audiences. 
 
