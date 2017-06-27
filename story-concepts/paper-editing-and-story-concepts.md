@@ -26,7 +26,9 @@ You can print these pdf for a hands on approach
 - <a href="https://github.com/pietrop/book-how-to-tell-compelling-stories-out-of-video-interviews/blob/master/pdfs/AAA_JR.pdf" target="_blank">Jesselyn Radack Internview</a>
 - <a href="https://github.com/pietrop/book-how-to-tell-compelling-stories-out-of-video-interviews/blob/master/pdfs/AAA_AM.pdf" target="_blank">Annie Maclon Interview</a>
 
-You can also explore the corresponding interactive transcriptions project at [whistleblower.press](http://whistleblower.press).
+You can also explore the corresponding interactive transcriptions project at <a href="http://whistleblower.press" target="_blank">whistleblower.press</a>.
+
+
 
 For the purpose of learning the paper-edit process, we suggest to not watch the video, and just rely on the text transcription. If you need adjustment such as using text to speech, you can do so on the pdf version before printing. But we'd recommend doing the hilighting and the rest of the process on paper. 
 
