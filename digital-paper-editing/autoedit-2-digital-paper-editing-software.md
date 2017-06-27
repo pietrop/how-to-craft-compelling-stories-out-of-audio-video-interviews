@@ -4,7 +4,7 @@ Paper-editing is tedious and time consuming. But none the less it still remains 
 
 In the last couple of years I've been working on [autoEdit2](http://www.autoedit.io/) a fast text based video editing that makes it easier, faster and more accessible to edit video interviews by leveraging the power of automated transcriptions.
 
-![autoEdit2 screenshot]()
+![autoEdit2 screenshot](http://www.autoedit.io/img/3_transcription.gif)
 
 
 In the analogue workflow the biggest bottle necks are in the transcription stage, and the assembling of the video sequence stage. 
