@@ -3,6 +3,7 @@
 ---
 
 _**Disclaimer**: this book is a work in progress.
+It is [hosted on gitbooks](https://pietropassarelli.gitbooks.io/how-to-tell-compelling-stories-out-of-video-inter/content/).
 If you like it and want to contribute to it, you can use [gitbooks commenting features](https://www.gitbook.com/blog/features/discussions), [ change request](https://help.gitbook.com/books/what-are-change-requests.html) or just reach out at [pietro.passarelli@gmail.com](/pietro.passarelli@gmail.com)._
 
 _You can use inline comments and discussions for high level topics and considerations._
@@ -11,11 +12,13 @@ _Use change requests for grammars and typos._
 
 ---
 
-This book is based on the Workshop ["How to craft compelling stories out of video interviews?"](http://pietropassarelli.com/wip_london_july2016.html). Which was in collaboration with [Niels Ladefoged](https://twitter.com/insofar_media) who has been curating the [Whistle Blower Interview Project](https://vimeo.com/whistleblowers) in collaboration with [the centre for investigative journalism in London](http://www.tcij.org/whistleblowers/whistleblower-interview-project).
+This book is based on the Workshop ["How to craft compelling stories out of video interviews?"](http://pietropassarelli.com/wip_london_july2016.html). Which was a collaboration between [Pietro Passarelli](https://twitter.com/pietropassarell) and [Niels Ladefoged](https://twitter.com/insofar_media).
 
-This workshop has had a number of editions in 2016 in London, New York, at Buenos Aires Hacks/Hackers Media Party, SRCCON in Portland, and MozzFest in London.
+Niels has been curating the [Whistle Blower Interview Project](https://vimeo.com/whistleblowers) in collaboration with [the centre for investigative journalism in London](http://www.tcij.org/whistleblowers/whistleblower-interview-project) whose interviews where used in the workshop.
 
-This was the description of the workshop.
+In 2016 Pietro was a Knight-Mozilla fellow for 10 months at Vox Media, and this workshop has had a number of editions that year supported by Open News in London, New York, at Buenos Aires Hacks/Hackers Media Party, SRCCON in Portland, and MozzFest in London.
+
+This was the description of the original workshop.
 
 >Using some of the videos from the Whistle Blowers Interview Archive, we’ll take an hands on approach to explore key concepts, ideas and techniques to identify narrative points, test out story ideas, and craft a compelling story.
 >
@@ -53,21 +56,21 @@ In the last we present an section an overview of paper-editing process.
 
 Story concepts considered are:
 
-Story terminology such as exposition, train, theme, story Arc, and distinction between plot and character driven stories. 
+- Story terminology such as exposition, train, theme, story Arc, and distinction between plot and character driven stories. 
 
-What makes a compelling character and how to explore the different levels of conflict. 
+- What makes a compelling character and how to explore the different levels of conflict. 
 
-How to identify and exploit the gap between expectations and reality to drive the narrative.
+- How to identify and exploit the gap between expectations and reality to drive the narrative.
  
-The Quest or Narrative Arc.
+- The Quest or Narrative Arc.
 
-The Three act structure.
+- The Three act structure.
 
-We revisit exposition in a bit more details. 
+- We revisit exposition in a bit more details. 
 
-We look into how the ladder of abstraction applies to paper editing. 
+- We look into how the ladder of abstraction applies to paper editing. 
 
-The section concludes with an annotated bibliography of material that contribute to this guide, for a diver deep into the topic. 
+- The section concludes with an annotated bibliography of material that contribute to this guide, for a deeper div  into the topic. 
 
 **In the third** section we make an optional side note on how a two column script can be used in paper-editing to decide on b-roll/cutaways images and video footage to use along side our interviews. 
 
@@ -77,4 +80,8 @@ The section concludes with an annotated bibliography of material that contribute
 
 ## Acknowledgements 
 
-A big thank you to Open News for supporting the 2016 series of workshop that inspired this book.
+A big thank you to:
+
+  [Open News](https://opennews.org/) for supporting the 2016 series of workshop that inspired this book. 
+
+<!-- -  [Nancy Platt](http://www.arts.ac.uk/lcc/people/teaching-staff--screen-school/nancy-platt/) for a great master class in paper-editing at the Ma Doc film LCC, which has inspired much of this subsequent work. -->
