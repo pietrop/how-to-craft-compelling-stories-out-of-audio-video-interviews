@@ -1,4 +1,4 @@
-# Story Concepts: Levels of conflict 
+# Story Concepts: Levels of conflict - Draft
 
 ![3 Levels of conflict picture](/assets/3_levals_of_conflict.png)
 
@@ -6,4 +6,4 @@
 Mckee p146
 
 
-//explanation
+<!-- //explanation -->

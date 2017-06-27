@@ -37,12 +37,12 @@ And this would be a more detailed draft.
 |   | | |
 
 ## Example: Two column script and 3 act structure 
-In previous sections we have s[een the three act structure](/story-concepts/three-act-structure.md). Here is an example of how you work it into a template to help the thinking over the events of your story, in a two column script.
+In previous sections we have [seen the three act structure](/story-concepts/three-act-structure.md). Here is an example of how you work it into a template to help the thinking over the events of your story, in a two column script.
 
 ![Two Column Script](/assets/Story crafting print out v2.png)
 
 
-download this template: <a href="https://docs.google.com/open?id=0BwdlhrSSXSiEUEdOQTJwcEVld1k" target="_blank">doc</a>, <a href="https://docs.google.com/open?id=0BwdlhrSSXSiELUF1bFhTSGZGSEU" target="_blank">pdf</a>, <a href="https://docs.google.com/open?id=0BwdlhrSSXSiEekgyYUROd3Jvc2s" target="_blank">pages</a>, <a href="https://docs.google.com/spreadsheet/ccc?key=0AgdlhrSSXSiEdENydkQ1WXBTYXJoSlRtdUs1RkNtT0E">Google Doc Spreedsheet</a>.
+<i>You can download this template: <a href="https://docs.google.com/open?id=0BwdlhrSSXSiEUEdOQTJwcEVld1k" target="_blank">doc</a>, <a href="https://docs.google.com/open?id=0BwdlhrSSXSiELUF1bFhTSGZGSEU" target="_blank">pdf</a>, <a href="https://docs.google.com/open?id=0BwdlhrSSXSiEekgyYUROd3Jvc2s" target="_blank">pages</a>, <a href="https://docs.google.com/spreadsheet/ccc?key=0AgdlhrSSXSiEdENydkQ1WXBTYXJoSlRtdUs1RkNtT0E">Google Doc Spreedsheet</a></i>.
 
 ## Structure: simplified
 

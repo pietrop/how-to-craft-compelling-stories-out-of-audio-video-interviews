@@ -9,7 +9,8 @@
 
 ![Exposition](/assets/exposition.png)
 
-It's important to be clear on where to use exposition in the story crafting process. It is best to first identify the `story` and then use exposition to refine the presentation.
+We'll [discuss this in more detail in the exposition section](/story-concepts/exposition.md).
+
 
 <!-- As McKee says every scene should lead to the next- check this -->
 
