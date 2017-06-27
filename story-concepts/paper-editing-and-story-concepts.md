@@ -22,9 +22,9 @@ If you want to use interviews from the Whistle Blower Interview project.
  
 You can print these pdf for a hands on approach
 
-- [Thomas Drake Interview](/pdfs/AAA_TD.pdf)
-- [Jesselyn Radack Internview](/pdfs/AAA_JR.pdf)
-- [Annie Maclon Interview](/pdfs/AAA_AM.pdf)
+- <a href="/pdfs/AAA_TD.pdf" target="_blank">Thomas Drake Interview</a>
+- <a href="/pdfs/AAA_JR.pdf" target="_blank">Jesselyn Radack Internview</a>
+- <a href="/pdfs/AAA_AM.pdf" target="_blank">Annie Maclon Interview</a>
 
 You can also explore the corresponding interactive transcriptions project at [whistleblower.press](http://whistleblower.press).
 
