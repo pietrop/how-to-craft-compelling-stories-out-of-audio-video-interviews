@@ -10,8 +10,8 @@ if for instance you decide to use a 3 act structure, then you could try this: Gi
 A 3 act structure where act 1 and 3 are 1/4 of the whole. ie for a 20min short doc, it would be 5 min each, and Act 2 about 1/2 of the whole, so a round 10min in our 20 min example.
 
 ### Act 1 Needs to:
-Introduce the character, and the problem and conflict
-Inciting the incident, the event that gets everything rolling although this event sometimes has already occurred when the story begins.
+**Introduce the character**, and the problem and conflict
+**Inciting the incident**, the event that gets everything rolling although this event sometimes has already occurred when the story begins.
 First turning point, which is somewhat smaller than the turning point that ends the act.
 By the end of Act One, the audience knows who and what your story is about and, at least initially, what’s at stake.
 The first act drives to an emotional peak, the highest in the film so far, necessitating the action that launches the second act.
