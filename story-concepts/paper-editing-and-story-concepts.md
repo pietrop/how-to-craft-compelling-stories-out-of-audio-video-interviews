@@ -4,6 +4,8 @@ Now Let's revisit our paper-edit overview in relation to some story concepts tha
 
 We'll give an overview of the paper-editing process. At appropriate stages will introduce relevant Story concepts. However to avoid cluttering this space, we link to the story concepts each in its separate section, so that they can also be easier to reference at a later stage. 
 
+As you are reading through, take a side step to read the story concepts as they are introduced as part of the paper-edit process and then come back to the main workflow.
+
 ### 1. Timecoded Transcription
 Transcriptions play an important role in the abstraction process. So first things first, start by getting transcriptions of the material to work with. 
 
@@ -109,9 +111,7 @@ add text selection to outline
 
 
 
-This is a good time to revisit [exposition](/story-concepts/exposition.md) as a tool that can be used to strengthen the narrative. Key to exposition is the notion of 
-
->"letting the audience know **what** they need to know **when** they need to know it"
+This is a good time to revisit [exposition](/story-concepts/exposition.md) as a tool that can be used to strengthen the narrative. Key to exposition is the notion of "letting the audience know **what** they need to know **when** they need to know it".
 
 
 ### 8. Reconnect video sequence
