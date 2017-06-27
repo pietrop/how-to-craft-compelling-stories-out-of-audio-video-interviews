@@ -29,10 +29,9 @@ You can print these pdf for a hands on approach
 You can also explore the corresponding interactive transcriptions project at <a href="http://whistleblower.press" target="_blank">whistleblower.press</a>.
 
 
+For the purpose of learning the paper-edit process, we suggest to not watch the video, and just rely on the text transcription. If you need adjustment such as using [text to speech](http://pietropassarelli.com/alpaca_speech/), you can do so on the pdf version before printing. But we'd recommend doing the hilighting and the rest of the process on paper. 
 
-For the purpose of learning the paper-edit process, we suggest to not watch the video, and just rely on the text transcription. If you need adjustment such as using text to speech, you can do so on the pdf version before printing. But we'd recommend doing the hilighting and the rest of the process on paper. 
-
-Let me also re-iterate that on the other hand for day to day editing of video interviews we recommend using [autoEdit.io](http://autoEdit.io), as described in the [last section](/digital-paper-editing/autoedit-2-digital-paper-editing-software.md). But that nothing beats the analogue workflow to learn the process as well as key story crafting ideas and techniques along the way. 
+Let me also re-iterate that on the other hand for day to day editing of video interviews we recommend using [autoEdit.io](http://autoEdit.io), as described in the [last section](/digital-paper-editing/autoedit-2-digital-paper-editing-software.md). But bear in mind that nothing beats the _analogue workflow_ to learn the process as well as key story crafting ideas and techniques along the way. 
 
 
 ![3 interviews with Transcriptions](/assets/3 interviews with Transcriptions.png)
