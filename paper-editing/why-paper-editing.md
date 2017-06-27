@@ -16,6 +16,7 @@ If you had experience with eidting of video interviews think about how you might
 Some people would ingest the footage in a video editing software of choice, play the video, or scrub through the timeline to find interesting bits. Copy those onto the timeline. Cluster them by topics, perhaps adding a title above a certain section to group them togethere and find it easier to move between sections. Then they would rework the timeline decidign on a order and gradually, slowly, painfully get to a video sequence. By that point they are generally exausted and iteration or big variations from the current version are not a welcome sudgestion, because of the overheads they involve. Sounds familiar? 
 
 ## What is a paper-edit?
+
 Will explore this in more details in [the next section](/paper-editing/paper-editing-overview.md). But at a high level paper-editing is the making of a story script from the transcriptions of video or audio interviews. The timecodes associated with the transcript can then be used to create a corresponding video sequence.
 
 I just want to re-iterate that the process is tediuos and time-consuming, so for day to day work with video interviews, we sudgest to use [autoEdit.io](http://autoEdit.io), [as described in the last section](/digital-paper-editing/autoedit-2-digital-paper-editing-software.md).
