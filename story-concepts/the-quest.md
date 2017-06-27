@@ -1,6 +1,6 @@
 # Story Concept: The Story Arc/The Quest
 
-![diagram]()
+![The Quest](/assets/TheQuest.png)
 
 >“For better or worse. an event throws a character's life out of balance. 
 >
@@ -12,5 +12,4 @@ balance.
 
 
 
-
-//explanation 
+<!-- //explanation -->

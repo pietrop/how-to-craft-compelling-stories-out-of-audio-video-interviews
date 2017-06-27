@@ -25,11 +25,12 @@ The second act drives to an **emotional peak** even greater than at the end of A
 ### Act 3
 As this act unfolds, the he or she will **reach the darkest moment** just as the third act comes to a close. It **intensifies**. That **tension then pushes you into the resolution**, those last moments where you resolve** ties up loose ends** as necessary and “l**et your hero out of the tree**”.
 
-![diagram from Aristotele poetics from screen writers]() 
+## Recap 
 
-![Worksheet img + link]()
+![3 Act Structure](/assets/3-act-structure.png)
 
-[as google spreadsheet](https://docs.google.com/spreadsheets/d/1qNvABA3OOwXfOFwhIVqqZouCj2cf2zV60bJEH3wg1Es/edit)
+## Relevance for paper-edit
+See[ two column script section](/two-column-script/two-column-script.md) for more on how to incorporate this into a paper-edit.
 
 
 <!--http://pietropassarelli.com/articles/2012/11/01/a-note-on-story-telling-for-paper-edit/  -->
