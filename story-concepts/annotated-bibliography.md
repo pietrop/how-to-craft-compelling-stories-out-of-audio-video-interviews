@@ -19,7 +19,11 @@ However there ideas from Aristotele that McKee revisits and takes further such a
 
 #### Robert McKee Story book
 
+
+
 <a href="https://www.goodreads.com/book/show/48654.Story?utm_medium=api&amp;utm_source=blog_book"><img alt="Story: Substance, Structure, Style, and the Principles of Screenwriting" src="https://images.gr-assets.com/books/1388176882m/48654.jpg" /></a>
+
+- The book goes hand in hand with his [story seminar](http://mckeestory.com/seminars/story/)
 
 
 #### Jack Hart, Story Craft
