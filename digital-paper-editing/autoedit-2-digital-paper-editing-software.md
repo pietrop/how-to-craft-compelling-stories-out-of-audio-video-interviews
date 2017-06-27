@@ -13,7 +13,7 @@ A digital solution removes these blockers and the cognitive overload associated 
 
 
 ## autoEdit2 
-See the user manual](https://pietropassarelli.gitbooks.io/autoedit2-user-manual/content) for more info on how it works. 
+See the [user manual](https://pietropassarelli.gitbooks.io/autoedit2-user-manual/content) for more info on how it works. 
 
 In particularly the [paper-editing functionality](https://pietropassarelli.gitbooks.io/autoedit2-user-manual/content/paperediting.html)
 

@@ -65,12 +65,13 @@ The Three act structure.
 
 We revisit exposition in a bit more details. 
 
-And conclude with the explaining how the ladder of abstraction applies to paper editing. 
+We look into how the ladder of abstraction applies to paper editing. 
 
 The section concludes with an annotated bibliography of material that contribute to this guide, for a diver deep into the topic. 
 
+**In the third** section we make an optional side note on how a two column script can be used in paper-editing to decide on b-roll/cutaways images and video footage to use along side our interviews. 
 
-**In the third** and last part, we introduce [autoEdit.io](http://autoEdit.io) a digital paper-editing software can be used for day to day production of video interviews. 
+**In the fourth** and last part, we introduce [autoEdit.io](http://autoEdit.io) a digital paper-editing software can be used for day to day production of video interviews. 
 
 
 
