@@ -13,7 +13,7 @@ If you like an hands on approach and would like to follow along, you can use the
 ##### Your own material
 If you want to use your own material, you can use [autoEdit.io](http://autoEdit.io) to generate a first draft of automated transcriptions. And export as a plain text time-coded transcription. See [autoEdit user manual](https://pietropassarelli.gitbooks.io/autoedit2-user-manual/content/transcribing.html) and [last section for more on this](/digital-paper-editing/autoedit-2-digital-paper-editing-software.md). You can also manually transcribe your own material, but we discourage such approach as tedious and time consuming. You'd have to consider 3 to 4 times the length of the media to do so. Eg 1 hour of a video interview will take you 3 to 4 hours to transcribe, is it worth it?
 
-Some argue that while transcribing you familiarise yourself with the material. To that I say, get the transcription in some other way, and just read them   as many time as you need to let it sink in.
+Some argue that while transcribing you familiarise yourself with the material. To that I say, get the transcription in some other way, and just read it   as many time as you need to let it sink in.
 
 ##### Interviews from Whistleblower Interview Project
 If you want to use interviews from the Whistle Blower Interview project.
