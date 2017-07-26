@@ -1,4 +1,4 @@
-# Two Column Script - draft
+![](/assets/Story_crafting_print_out_v2.png)# Two Column Script - draft
 
 _This part is optional. Depending on the project you may want to skip it in this form and do it straight into the video editing software._ 
 
@@ -38,6 +38,8 @@ And this would be a more detailed draft.
 
 ## Example: Two column script and 3 act structure 
 In previous sections we have [seen the three act structure](/story-concepts/three-act-structure.md). Here is an example of how you work it into a template to help the thinking over the events of your story, in a two column script.
+
+![Story](/assets/Story_crafting_print_out_v2.png)
 
 
 
