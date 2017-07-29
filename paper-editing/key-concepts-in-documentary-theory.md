@@ -309,7 +309,6 @@ Lastly I think that "Into the Abyss" by Herzog I'd say it's in a more cinema ver
 ### It's all about story
 
 <iframe src="https://player.vimeo.com/video/214023666" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/214023666">How Nature Documentaries Are Fake</a> from <a href="https://vimeo.com/dslrguide">DSLRguide</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
 None the less, it's all about story, not as hard and fast rules, but as principles, which you'd need to know about to be able to break. 
