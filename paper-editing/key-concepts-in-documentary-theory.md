@@ -308,9 +308,6 @@ Lastly I think that "Into the Abyss" by Herzog I'd say it's in a more cinema ver
 
 ### It's all about story
 
-<iframe src="https://player.vimeo.com/video/214023666" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>      
-
-
 None the less, it's all about story, not as hard and fast rules, but as principles, which you'd need to know about to be able to break. 
 
 And the reason why I say this is that this last point overshadows to a certain extent the previous schools of thoughts, in the sense that once you've figured out what the possible story is, then you can work out the best way to tell it.
