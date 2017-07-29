@@ -251,6 +251,12 @@ I'd close this section with a good [interview with Verner Herzog about one of hi
 <!-- Fourth & Main: Werner Herzog on filmmaking  -youtube -->
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/QxxEHlQdp78" frameborder="0" allowfullscreen></iframe>
 
+You can also consider how this applies to other forms of documentaries. 
+
+<iframe src="https://player.vimeo.com/video/214023666" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>      
+
+
+
 
 
 ### Some more docs you should watch are:
