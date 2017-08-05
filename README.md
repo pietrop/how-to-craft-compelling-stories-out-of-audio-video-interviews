@@ -10,6 +10,8 @@ _You can use inline comments and discussions for high level topics and considera
 
 _Use change requests for grammars and typos._
 
+if you feel more comfortable with github you can send a [pull request](https://help.github.com/articles/about-pull-requests/), [to this repo](https://github.com/pietrop/book-how-to-tell-compelling-stories-out-of-video-interviews) that syncs with this gitbook automatically.
+
 ---
 
 This book is based on the Workshop ["How to craft compelling stories out of video interviews?"](http://pietropassarelli.com/wip_london_july2016.html). Which was a collaboration between [Pietro Passarelli](https://twitter.com/pietropassarell) and [Niels Ladefoged](https://twitter.com/insofar_media).
