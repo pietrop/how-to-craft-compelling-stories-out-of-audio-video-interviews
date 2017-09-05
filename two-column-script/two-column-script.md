@@ -24,7 +24,7 @@ eg a first draft could like this:
 | Structure | Audio | Video |
 | ------------- |:-------------:| -----:|
 | Intro | Contributor introduces himself | Some kind of Opening shot  | 
-| | | |
+|       |                                |                            |
 | | | |
 
 And this would be a more detailed draft. 
