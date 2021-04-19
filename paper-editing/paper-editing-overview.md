@@ -10,7 +10,7 @@ In a paper-editing workflow, at a high level, you would do the following.
 ### 1. Timecoded Transcription
 You'd get a timecoded transcription of the video interviews
 
-![Overview analogue paper-edit](/assets/3 interviews with Transcriptions.png)
+![Overview analogue paper-edit](/assets/3%20interviews%20with%20Transcriptions.png)
 
 Let's see this step by step.
 
