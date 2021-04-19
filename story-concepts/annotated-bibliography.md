@@ -60,7 +60,7 @@ Illustrated comic exploring the radio production process at This American Life.
 #### NFBC Capturing Reality: The Art of Documentary
 Doc film by National Film Board of Canada, interviewing established documentary film-makers about their craft.
 
-![cover](https://media1.nfb.ca/medias/nfb_tube/cache/fa/65/fa65c85cecffe3cccb6c1558b09368d5.jpg)
+![cover](https://pics.filmaffinity.com/capturing_reality-403395144-large.jpg)
 
 
 - [Interactive archive of interviews with film-makers](http://films.nfb.ca/capturing-reality/) -_requires flash_
