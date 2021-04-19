@@ -20,17 +20,17 @@ Read it through a first time
 ### 3. hilight what stands out
 Read a second time, with a hilighter and mark things that stands out at a gut feeling level. 
 
-![](/assets/3 interviews transcriptions and hlighter.png)
+![](/assets/3%20interviews%20transcriptions%20and%20hlighter.png)
 
 ### 4. Identify Themes and ideas
 Look through a third time to identify themes and ideas that could be group together, from the parts you have identified. 
 
-![](/assets/3 interviews transcriptions and pen.png)
+![](/assets/3%20interviews%20transcriptions%20and%20pen.png)
 
 ### 4. list the themes
 Make a list of the themes you have identified in each interview.
 
-![](/assets/list key topics.png)
+![](/assets/list%20key%20topics.png)
 
 ### 5. explore relations
 Think about how the themes relate to each other
@@ -46,16 +46,16 @@ Make an outline of these highl level themes, selecting the most significant.
 Fill in the dialogue, find the text in the transcription for each theme in the outline, and add it to the outline.
 Will come back to this point an thing about story concept that can be used to strengthen the narrative. Such as expositon.
 
-![](/assets/fill in the dialogue 1 .png)
+![](/assets/fill%20in%20the%20dialogue%201%20.png)
 
 add text selection to timeline
 
-![](/assets/fill in the dialogue 2.png)
+![](/assets/fill%20in%20thevdialogue%202.png)
 
 ### 8. Recconect video sequence
 Using the timecodes and file reference in the paper-edit reconnect the video sequence in the video editing software of choice. 
 
-![](/assets/video sequence.png)
+![](/assets/video%20sequence.png)
 
 
 
