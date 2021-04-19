@@ -20,7 +20,7 @@ Some argue that while transcribing you familiarise yourself with the material. T
 ##### Interviews from Whistleblower Interview Project
 If you want to use interviews from the Whistle Blower Interview project.
 
-![3 interviews](/assets/3 interviews.png) 
+![3 interviews](/assets/3%20interviews.png) 
  
 You can print these pdf for a hands on approach
 
@@ -36,7 +36,7 @@ For the purpose of learning the paper-edit process, we suggest to not watch the 
 Let me also re-iterate that on the other hand for day to day editing of video interviews we recommend using [autoEdit.io](http://autoEdit.io), as described in the [last section](/digital-paper-editing/autoedit-2-digital-paper-editing-software.md). But bear in mind that nothing beats the _analogue workflow_ to learn the process as well as key story crafting ideas and techniques along the way. 
 
 
-![3 interviews with Transcriptions](/assets/3 interviews with Transcriptions.png)
+![3 interviews with Transcriptions](/assets/3%20interviews%20with%20Transcriptions.png)
 
 
 ### 2. Read
@@ -45,7 +45,7 @@ Read it through a first time. Sometimes people do point 2 and 3 at the same time
 ### 3. hilight what stands out
 Read a second time, with a hilighter and mark things that stands out at a gut feeling level.
 
-![](/assets/3 interviews transcriptions and hlighter.png)
+![](/assets/3%20interviews%20transcriptions%20and%20hlighter.png)
 
 
 #### Story concepts:
@@ -54,7 +54,7 @@ Let's consider some basic [terminology](/story-concepts/terminology.md) to get s
 ### 4. Identify Themes and ideas
 Look through a third time to identify themes and ideas that could be group together, from the parts you have identified.
 
-![](/assets/3 interviews transcriptions and pen.png)
+![](/assets/3%20interviews%20transcriptions%20and%20pen.png)
 
 #### Story concepts: 
 
@@ -68,17 +68,17 @@ We then consider the [the Gap](/story-concepts/the-gap.md) between expectation a
 ### 4. list the themes
 Make a list of the themes you have identified in each interview.
 
-![](/assets/list key topics.png)
+![](/assets/list%20key%20topics.png)
 
 ### 5. explore relations
 Think about how the themes relate to each other
 
-![](/assets/group and explore relations.png)
+![](/assets/group%20andvexplore%20relations.png)
 
 ### 6. Make high level outline
 Make an outline of these high level themes, selecting the most significant.
 
-![](/assets/make step outline.png)
+![](/assets/make%20step%20outline.png)
 
 ####  Story Concepts:
 Let's now focus on the basics of story structure.  Almost every story can be reduced down to [The Quest](/story-concepts/the-quest.md). Let's consider in more details what are the components of such story arc, and what that means for our story crafting.
@@ -90,13 +90,13 @@ Beware that you might not need to have all 3 acts all the time, for short piece 
 Fill in the dialogue, find the text in the transcription for each theme in the outline, and add it to the outline.
 
 
-![](/assets/fill in the dialogue 1 .png)
+![](/assets/fill%20in%20the%20dialogue%201v.png)
 
 ![Workshop Img](http://pietropassarelli.com/img/wip_london_workshop_july_2016/wip_london_workshop_2016_hands_on_1.JPG)
 
 add text selection to outline
 
-![](/assets/fill in the dialogue 2.png)
+![](/assets/fill%20in%20the%20dialogue%202.png)
 
 
 ![Workshop img](http://pietropassarelli.com/img/wip_london_workshop_july_2016/wip_london_workshop_2016_hands_on_2.JPG)
