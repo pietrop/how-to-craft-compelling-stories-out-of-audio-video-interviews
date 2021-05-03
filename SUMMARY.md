@@ -1,8 +1,10 @@
-# Summary
+# Table of contents
+
+* [Introduction](README.md)
 
 ## Introduction
 
-* [Introduction](README.md)
+* [Introduction](introduction/readme.md)
 
 ## Paper-editing
 
@@ -20,7 +22,7 @@
 * [The Quest](story-concepts/the-quest.md)
 * [Three act structure](story-concepts/three-act-structure.md)
 * [Exposition](story-concepts/exposition.md)
-* [ladder of abstraction in paper-editing](paper-editing/ladder-of-abstraction-in-paper-editing.md)
+* [ladder of abstraction in paper-editing](story-concepts/ladder-of-abstraction-in-paper-editing.md)
 * [Annotated bibliography](story-concepts/annotated-bibliography.md)
 
 ## Two Column Script

@@ -1,6 +1,6 @@
 # Introduction
 
-_**Disclaimer**: this book is a work in progress. It is_ [_hosted on gitbooks_](https://pietropassarelli.gitbooks.io/how-to-tell-compelling-stories-out-of-video-inter/content/)_. If you like it and want to contribute to it, you can use_ [_gitbooks commenting features_](https://www.gitbook.com/blog/features/discussions)_,_ [ _change request_](https://help.gitbook.com/books/what-are-change-requests.html) _or just reach out at_ [_pietro.passarelli@gmail.com_](https://github.com/pietrop/book-how-to-tell-compelling-stories-out-of-video-interviews/tree/9f3e044d19f5954d4b91e217e3d3670ebb8e471b/pietro.passarelli@gmail.com)_._
+_**Disclaimer**: this book is a work in progress. It is_ [_hosted on gitbooks_](https://pietropassarelli.gitbooks.io/how-to-tell-compelling-stories-out-of-video-inter/content/)_. If you like it and want to contribute to it, you can use_ [_gitbooks commenting features_](https://www.gitbook.com/blog/features/discussions)_,_ [ _change request_](https://help.gitbook.com/books/what-are-change-requests.html) _or just reach out at_ [_pietro.passarelli@gmail.com_](https://github.com/pietrop/book-how-to-tell-compelling-stories-out-of-video-interviews/tree/2a15c347c1dead9f9e66f25720b97622bc03dfda/pietro.passarelli@gmail.com)_._
 
 _You can use inline comments and discussions for high level topics and considerations._
 
