@@ -111,7 +111,7 @@ or just `npm run deploy` if for some reason you don't need to build the site.
 This publishes the site to github pages for this github repository.
 
 
----
+<!-- ---
 
 ## To use as a template
 - [ ] Modify `/src/_data/site.js`
@@ -122,4 +122,4 @@ This publishes the site to github pages for this github repository.
 - [ ] Modify `/CNAME` file with name of your site
 - [ ] Change the favicon if you wish. `public/favicon.ico`
 - [ ] ...
-
+ -->
