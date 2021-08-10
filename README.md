@@ -1,71 +1,155 @@
-# Introduction
+## 11ty auto navigation book template
 
-_**Disclaimer**: this book is a work in progress. It is_ [_hosted on gitbooks_](https://pietropassarelli.gitbooks.io/how-to-tell-compelling-stories-out-of-video-inter/content/)_. If you like it and want to contribute to it, you can use_ [_gitbooks commenting features_](https://www.gitbook.com/blog/features/discussions)_,_ [ _change request_](https://help.gitbook.com/books/what-are-change-requests.html) _or just reach out at_ [_pietro.passarelli@gmail.com_](https://github.com/pietrop/book-how-to-tell-compelling-stories-out-of-video-interviews/tree/9f3e044d19f5954d4b91e217e3d3670ebb8e471b/pietro.passarelli@gmail.com)_._
+<!-- _One liner + link to confluence page_
+_Screenshot of UI - optional_ -->
 
-_You can use inline comments and discussions for high level topics and considerations._
 
-_Use change requests for grammars and typos._
 
-if you feel more comfortable with github you can send a [pull request](https://help.github.com/articles/about-pull-requests/), [to this repo](https://github.com/pietrop/book-how-to-tell-compelling-stories-out-of-video-interviews) that syncs with this gitbook automatically.
+## Setup
 
-This book is based on the Workshop ["How to craft compelling stories out of video interviews?"](http://pietropassarelli.com/wip_london_july2016.html). Which was a collaboration between [Pietro Passarelli](https://twitter.com/pietropassarell) and [Niels Ladefoged](https://twitter.com/insofar_media).
+<!-- _stack - optional_
+_How to build and run the code/app_ -->
 
-Niels has been curating the [Whistle Blower Interview Project](https://vimeo.com/whistleblowers) in collaboration with [the centre for investigative journalism in London](http://www.tcij.org/whistleblowers/whistleblower-interview-project) whose interviews where used in the workshop.
+### To contribute 
+```
+git clone git@github.com:pietrop/how-to-craft-compelling-stories-out-of-audio-video-interviews.git
+```
+```
+cd how-to-craft-compelling-stories-out-of-audio-video-interviews
+```
 
-In 2016 Pietro was a Knight-Mozilla fellow for 10 months at Vox Media, and this workshop has had a number of editions that year supported by Open News in London, New York, at Buenos Aires Hacks/Hackers Media Party, SRCCON in Portland, and MozzFest in London.
+```
+npm install
+```
 
-This was the description of the original workshop.
+### To use
 
-> Using some of the videos from the Whistle Blowers Interview Archive, we’ll take an hands on approach to explore key concepts, ideas and techniques to identify narrative points, test out story ideas, and craft a compelling story.
+click on `Use this template`. Will prompt you to create a new repo based on this one. And you can then name it, clone it and follow rest of the instructions.
+
+## Usage
+
+```
+npm start
+```
+
+
+## System Architecture
+
+<!-- _High level overview of system architecture_ -->
+
+<!-- ## Documentation
+
+There's a [docs](./docs) folder in this repository.
+
+[docs/notes](./docs/notes) contains dev draft notes on various aspects of the project. This would generally be converted either into ADRs or guides when ready.
+
+[docs/adr](./docs/adr) contains [Architecture Decision Record](https://github.com/joelparkerhenderson/architecture_decision_record).
+
+> An architectural decision record (ADR) is a document that captures an important architectural decision made along with its context and consequences.
+
+We are using [this template for ADR](https://gist.github.com/iaincollins/92923cc2c309c2751aea6f1b34b31d95) -->
+
+Originally forked from [adamduncan/eleventy-auto-navigation](https://github.com/adamduncan/eleventy-auto-navigation)
+
+>Directory structure-based navigation concept for eleventy-plugin-navigation. Based on a moonshoot :rocket: in [a discussion](https://github.com/11ty/eleventy/issues/1171#issuecomment-637038522) about automatic hierarchical navigation.
 >
-> This workshop focusses on the underlying evergreen storytelling principles that transcend the medium, so no knowledge of video editing required, just curiosity towards story telling principles and techniques.
+>[Eleventy Navigation](https://www.11ty.dev/docs/plugins/navigation/) plugin defines its tree structure based on `key` and `parent` data in a site's pages.
 >
-> Participants will be divided into groups of 3 to 4 people. The aim for each group is to produce a 3 to 5 minutes video, given 3 short video interviews \(roughly 15 min each\) accompanied by their corresponding time-coded transcriptions.
+>If we want the site tree to mimic the folder structure, we can automate the setting of these properties by leveraging [Computed Data](https://www.11ty.dev/docs/data-computed/#real-world-example), and a little URL path wrangling. See [`eleventyComputed.js`](https://github.com/adamduncan/eleventy-auto-navigation/blob/main/src/_data/eleventyComputed.js) data, [`nav.njk`](https://github.com/adamduncan/eleventy-auto-navigation/blob/main/src/_includes/components/nav.njk) include and [`startsWith`](https://github.com/adamduncan/eleventy-auto-navigation/blob/main/src/_11ty/filters/startsWith.js) filter for most of the action. (Also check the Eleventy `log` for details on the navigation structure.)
 >
-> Key story telling principles and techniques will be introduced to facilitate the process. The aim of the workshop is for the participants to gain an hands on insight into the process of interviewed based documentary story crafting rather then producing a polished final product.
+>Under the hood here we're setting the `key` and `parent` values to their URL paths, which are inherently unique (whereas setting by page title could become problematic). We also pass the `order` property from the page's frontmatter to `eleventyNavigation`. This allows us to override the default sort order (based on [date created](https://www.11ty.dev/docs/collections/#sorting) in collections) should you want to manually re-order siblings (see _Mammals_ child pages, for example).
+>
+>Perhaps not a bullet-proof approach, but certainly gets us most the way there without breaking a sweat.
 
-![some imgs from the workshop](http://pietropassarelli.com/img/wip_london_workshop_july_2016/wip_london_workshop_2016_2.JPG)
+uses modified version of [Simple Tree Menu](http://www.dynamicdrive.com/dynamicindex1/navigate1.htm) for the collapsable sidebar navigation.
 
-Picture from London workshop, July 2016 at Newspeak House.
 
-For the purpose of this book, we consider documentary production as the main use case but this process can be used in the context of other interview based media, eg podcasts, radio, factual and news production.
+## Development env
 
-The book echoes the workshop and follows an hands on approach. You can follow along using transcriptions from the Whistleblower Interview Project, or you can work with your own material if you are currently working on an interview based production. You can also chose to skip the hands on parts. But as they say _practice makes perfect_.
+ <!-- _How to run the development environment_ -->
 
-For optimal learning outcome, the paper-editing process is introduced in its analogue , paper, scissors and tape form. This is the optimal approach to maximise the learning experience and familiarise with key story concepts, especially if you are working on this in a small group.
+- npm > `6.14.13`
+- [Node 14](https://nodejs.org/docs/latest-v14.x/api)
 
-However for day to day work, we recommend using [autoEdit2](http://autoEdit.io) the digital paper-editing software mentioned in the last section of the book.
+Node version is set in node version manager [`.nvmrc`](https://github.com/creationix/nvm#nvmrc)
 
-The book is divided into three main parts.
+```
+nvm use
+```
 
-**In part one** we introduce the paper-editing process. We start with an overview of the documentary production to position where paper-editing fits in this context.
 
-We then touch upon some key ideas in documentary theory and practice to explore some perspectives a round the question of objectivity/subjectivity of the documentary film-maker.
+<!-- _Coding style convention ref optional, eg which linter to use_ -->
 
-In the next section screen writing technique of writing from the inside out is presented as a key reason of why you should bother with Paper-editing.
+<!-- _Linting, github pre-push hook - optional_ -->
 
-In the last we present an section an overview of paper-editing process.
+## Build
 
-**In the second part** we revisit the paper-editing process introducing key story concepts that help crafting compelling narratives.
+<!-- _How to run build_ -->
 
-Story concepts considered are:
+```
+npm run build
+```
 
-* Story terminology such as exposition, train, theme, story Arc, and distinction between plot and character driven stories.
-* What makes a compelling character and how to explore the different levels of conflict.
-* How to identify and exploit the gap between expectations and reality to drive the narrative.
-* The Quest or Narrative Arc.
-* The Three act structure.
-* We revisit exposition in a bit more details.
-* We look into how the ladder of abstraction applies to paper editing.
-* The section concludes with an annotated bibliography of material that contribute to this guide, for a deeper div into the topic.
+It generates the `_site` folder
 
-**In the third** section we make an optional side note on how a two column script can be used in paper-editing to decide on b-roll/cutaways images and video footage to use along side our interviews.
+## Tests
 
-**In the fourth** and last part, we introduce [autoEdit.io](http://autoEdit.io) a digital paper-editing software can be used for day to day production of video interviews.
+<!-- _How to carry out tests_ -->
 
-## Acknowledgements
+_NA_
 
-A big thank you to:
+## Deployment
 
-[Open News](https://opennews.org/) for supporting the 2016 series of workshop that inspired this book.
+<!-- _How to deploy the code/app into test/staging/production_ -->
+
+```
+npm run build:deploy
+```
+
+or just `npm run deploy` if for some reason you don't need to build the site.
+
+
+This publishes the site to github pages for this github repository.
+
+---
+
+
+## TODOS: 
+- [x] sidebar Navbar layout
+- [x] Tree navigation in sidebar
+- [x] add to github ass template site 
+- [x] publish to github pages
+- [x] add other 11ty things, like syntax highlight etc.. and example pages 
+- [x] Test local images, to see if needs extra configuration 
+- [x] figure out why `_data` `site.js` is not working
+- [x] figure out why current page has stop showing up
+- [x] edit on github link 
+- [x] support for font awesome icons
+- [x] optional footer
+
+_stretch goals_
+- [x] add footer 
+- [ ] breakdown templates into parts, eg head.njk etc..
+- [x] make outward links open new tab 
+- [ ] ~show markdown alt image text as description of image?~
+- [x] images embed for social media share options
+- [x] Other head social media tags
+- [ ] optional Google analytics setup `~` (needs testing)
+- [x] figure out what to do about mobile `~`
+- [ ] ~see if can move content page inside `src/content`~
+- [x] site search (~nice to have)
+- [ ] 404 page 
+
+
+---
+
+## To use as a template
+- [ ] Modify `/src/_data/site.js`
+  - [ ] change `pathPrefix` on line 3
+  - [ ] Change other site info
+- [ ] Modify `/manifest.json` (TODO: minfest.json should pull a lot of the info from site.js)
+- [ ] Markdown files and folder in `/src` folder. Eg replace with your content.
+- [ ] Modify `/CNAME` file with name of your site
+- [ ] Change the favicon if you wish. `public/favicon.ico`
+- [ ] ...
 
