@@ -3,7 +3,8 @@ title: 'Intro'
 emoji:  📽 
 order: 1
 # image: https://localhost:8080/how-to-craft-compelling-stories-out-of-audio-video-interviews/img/wip_london_workshop_2016_2.jpg
-image: 'img/unsplash/photo-1497015289639-54688650d173.webp'
+# image: 'img/unsplash/photo-1497015289639-54688650d173.webp'
+image: 'https://images.unsplash.com/photo-1497015289639-54688650d173?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2689&q=80'
 ---
 <!-- # Intro -->
 
