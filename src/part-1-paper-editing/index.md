@@ -2,8 +2,8 @@
 order: 1
 title: 'Paper editing'
 emoji: 🎞️
-# image: 'https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80'
-image: 'img/unsplash/photo-1574717024653-61fd2cf4d44d.webp'
+image: 'https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2250&q=80'
+# image: 'img/unsplash/photo-1574717024653-61fd2cf4d44d.webp'
 ---
 ## Why Paper-editing?
 
