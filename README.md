@@ -1,9 +1,8 @@
-## 11ty auto navigation book template
+## How to craft compelling stories out of audio video interviews
+e-book, using [11ty auto navigation book template]](https://github.com/pietrop/11ty-auto-navigation-book-template)
 
 <!-- _One liner + link to confluence page_
 _Screenshot of UI - optional_ -->
-
-
 
 ## Setup
 
@@ -110,35 +109,6 @@ or just `npm run deploy` if for some reason you don't need to build the site.
 
 
 This publishes the site to github pages for this github repository.
-
----
-
-
-## TODOS: 
-- [x] sidebar Navbar layout
-- [x] Tree navigation in sidebar
-- [x] add to github ass template site 
-- [x] publish to github pages
-- [x] add other 11ty things, like syntax highlight etc.. and example pages 
-- [x] Test local images, to see if needs extra configuration 
-- [x] figure out why `_data` `site.js` is not working
-- [x] figure out why current page has stop showing up
-- [x] edit on github link 
-- [x] support for font awesome icons
-- [x] optional footer
-
-_stretch goals_
-- [x] add footer 
-- [ ] breakdown templates into parts, eg head.njk etc..
-- [x] make outward links open new tab 
-- [ ] ~show markdown alt image text as description of image?~
-- [x] images embed for social media share options
-- [x] Other head social media tags
-- [ ] optional Google analytics setup `~` (needs testing)
-- [x] figure out what to do about mobile `~`
-- [ ] ~see if can move content page inside `src/content`~
-- [x] site search (~nice to have)
-- [ ] 404 page 
 
 
 ---
