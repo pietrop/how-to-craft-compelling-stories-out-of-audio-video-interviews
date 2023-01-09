@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/pietrop/how-to-craft-compelling-stories-out-of-audio-video-interviews",
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.0",
+    "@11ty/eleventy": "^1.0.2",
     "@11ty/eleventy-navigation": "^0.1.6",
     "gh-pages": "^3.2.3",
     "@11ty/eleventy-img": "^0.9.0",
