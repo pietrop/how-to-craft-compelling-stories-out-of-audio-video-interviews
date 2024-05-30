@@ -1,5 +1,5 @@
 ## How to craft compelling stories out of audio video interviews
-e-book, using [11ty auto navigation book template]](https://github.com/pietrop/11ty-auto-navigation-book-template)
+e-book, using [11ty auto navigation book template](https://github.com/pietrop/11ty-auto-navigation-book-template)
 
 <!-- _One liner + link to confluence page_
 _Screenshot of UI - optional_ -->
