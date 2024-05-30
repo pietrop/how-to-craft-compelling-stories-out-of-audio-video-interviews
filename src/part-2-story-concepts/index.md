@@ -41,9 +41,9 @@ You can print these pdf for a hands on approach
 - Jesselyn Radack Internview | [AAA_JR.pdf]({{site.baseUrl}}/public/pdfs/AAA_JR.pdf)
 - Annie Maclon Interview | [AAA_AM.pdf]({{site.baseUrl}}/public/pdfs/AAA_AM.pdf)
 
-You can also explore the corresponding interactive transcriptions project at [whistleblower's site](https://pietropassarelli.com/WIP_archive).
+You can also explore the corresponding interactive transcriptions project at [whistleblower's site](https://pietropassarelli.net/WIP_archive).
 
-For the purpose of learning the paper-edit process, we suggest to not watch the video, and just rely on the text transcription. If you need adjustment such as using [text to speech](https://pietropassarelli.com/alpaca_speech/), you can do so on the pdf version before printing. But we'd recommend doing the hilighting and the rest of the process on paper.
+For the purpose of learning the paper-edit process, we suggest to not watch the video, and just rely on the text transcription. If you need adjustment such as using [text to speech](https://pietropassarelli.net/alpaca_speech/), you can do so on the pdf version before printing. But we'd recommend doing the hilighting and the rest of the process on paper.
 
 Let me also re-iterate that on the other hand for day to day editing of video interviews we recommend using [autoEdit.io](https://autoedit.io/), as described in the last section.  But bear in mind that nothing beats the *analogue workflow* to learn the process as well as key story crafting ideas and techniques along the way.
 

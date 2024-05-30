@@ -12,7 +12,7 @@ image: 'https://images.unsplash.com/photo-1497015289639-54688650d173?ixlib=rb-1.
 
 ## Background
 
-This e-book is based on the Workshop ["How to craft compelling stories out of video interviews?"](https://pietropassarelli.com/how-to-tell-compelling-stories-out-of-video-interviews.html). Which was a collaboration between [Pietro Passarelli](https://twitter.com/pietropassarell) and [Niels Ladefoged](https://twitter.com/insofar_media).
+This e-book is based on the Workshop ["How to craft compelling stories out of video interviews?"](https://pietropassarelli.net/how-to-tell-compelling-stories-out-of-video-interviews.html). Which was a collaboration between [Pietro Passarelli](https://twitter.com/pietropassarell) and [Niels Ladefoged](https://twitter.com/insofar_media).
 
 Niels has been curating the [Whistle Blower Interview Project](https://vimeo.com/whistleblowers) in collaboration with [the centre for investigative journalism in London](https://www.tcij.org/whistleblowers/whistleblower-interview-project) whose interviews where used in the workshop.
 
@@ -38,7 +38,7 @@ For optimal learning outcome, the paper-editing process is introduced in its ana
 
 However for day to day work, we recommend using [autoEdit2](https://autoedit.io/) the digital paper-editing software mentioned in the last section of the book.
 
-If while reading this e-book, you find yourself wondering what are the implications of editing "raw interviews" and wether doing so makes them any less true, (a common question during the workshops) and you want some background on the key ideas in documentary theory and practice, you can check out this blog post ["Representing Reality: Key ideas in documentary theory and practice"](https://pietropassarelli.com/doc.html) to explore some perspectives a round the question of objectivity/subjectivity of the documentary film-maker.  
+If while reading this e-book, you find yourself wondering what are the implications of editing "raw interviews" and wether doing so makes them any less true, (a common question during the workshops) and you want some background on the key ideas in documentary theory and practice, you can check out this blog post ["Representing Reality: Key ideas in documentary theory and practice"](https://pietropassarelli.net/doc.html) to explore some perspectives a round the question of objectivity/subjectivity of the documentary film-maker.  
 
 ## Overview
 
